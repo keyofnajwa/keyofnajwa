@@ -3,8 +3,6 @@
 <p align="center">
   <img src=https://raw.githubusercontent.com/keyofnajwa/keyofnajwa/refs/heads/main/Hello!_20260429_175853_0000.png alt="Ray's GitHub Header" width="100%">
 </p>
-<!--
-**keyofnajwa/keyofnajwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
 <br>10th-grade TKJ Student who lives by the motto "The Man Behind the Gun", Aku percaya kalau codingan Cepat itu lahir dari logika yang kuat, bukan cuma spek perangkat. <br>Walaupun cuma modal smartphone (Pydroid 3), I'm consistently pushing my limits in «Backend Development» and «Networking» as TKJ. Dari kabel LAN sampe Python script,<br> I'm here to prove that as long as you have the logic, you can build anything from anywhere. Let's cook! 🐍🔥<br>
