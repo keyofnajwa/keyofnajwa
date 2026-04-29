@@ -1,5 +1,8 @@
-## Hi there 👋
+# Hi 👋, I'm Key!
 
+<p align="center">
+  <img src=https://raw.githubusercontent.com/keyofnajwa/keyofnajwa/refs/heads/main/Hello!_20260429_175853_0000.png alt="Ray's GitHub Header" width="100%">
+</p>
 <!--
 **keyofnajwa/keyofnajwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
