@@ -5,7 +5,9 @@
 </p>
 
 # 💫 About Me:
-<br>10th-grade TKJ Student who lives by the motto "The Man Behind the Gun", Aku percaya kalau codingan Cepat itu lahir dari logika yang kuat, bukan cuma spek perangkat. <br>Walaupun cuma modal smartphone (Pydroid 3), I'm consistently pushing my limits in «Backend Development» and «Networking» as TKJ. Dari kabel LAN sampe Python script,<br> I'm here to prove that as long as you have the logic, you can build anything from anywhere. Let's cook! 🐍🔥<br>
+<br>Network Engineering student with a passion for building and documenting infrastructure. I enjoy learning by doing—whether it's configuring routers, automating tasks with Python, or exploring new tech.
+
+I believe that even small steps, when taken consistently, lead to big results. Currently documenting my journey from lab simulations to real-world setups.<br>
 
 
 ## 🌐 Socials:
