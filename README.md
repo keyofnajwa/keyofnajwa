@@ -12,7 +12,9 @@ I believe that even small, consistent steps will eventually lead to great result
 What I’m currently working on:
 
 ***Networking: Exploring Cisco topologies and MikroTik infrastructure (using GNS3).***
+
 ***Web Development: Building projects using AI-assisted coding methods.***
+
 ***Automation: Scripting with Python to make things work smarter, not harder.***
 
 📂 Lab notes & configs:
