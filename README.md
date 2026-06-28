@@ -5,9 +5,22 @@
 </p>
 
 # 💫 About Me:
-<br>Network Engineering student with a passion for building and documenting infrastructure. I enjoy learning by doing—whether it's configuring routers, automating tasks with Python, or exploring new tech.
+<br>Just an IT student who loves to build and break things. I’m currently focused on networking, automation, and web development. I use this space to keep track of my projects and document my learning journey as I explore the tech world.
 
-I believe that even small steps, when taken consistently, lead to big results. Currently documenting my journey from lab simulations to real-world setups.<br>
+I believe that even small, consistent steps will eventually lead to great results. Still got a long way to go, but I’m enjoying every bit of the process. 🚀
+
+What I’m currently working on:
+
+Networking: Exploring Cisco topologies and MikroTik infrastructure (using GNS3).
+
+Web Development: Building projects using AI-assisted coding methods.
+
+Automation: Scripting with Python to make things work smarter, not harder.
+
+📂 Lab notes & configs:
+You can find my lab documentations and code snippets in my repositories.
+
+Happy to connect and share knowledge!.<br>
 
 
 ## 🌐 Socials:
